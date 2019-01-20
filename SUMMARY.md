@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [The Vulca initiative](README.md)
 * [Community](community.md)
 * [Fablab](fablab.md)
 * [Mobility](mobility.md)
