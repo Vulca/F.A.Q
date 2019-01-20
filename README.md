@@ -5,7 +5,6 @@
 Because we are no **brainers**, we are **doers**.    
 We all now we **make** an impact around us.   
 But how to measure it, explain it to use it as leverage with our local or EU representatives.   
-_website:_ [_vulca.eu_](www.vulca.eu)
 
 ![faq3](https://user-images.githubusercontent.com/45399609/51440393-798a9500-1cbe-11e9-9a22-106e094daaf2.jpg) ![faq2](https://user-images.githubusercontent.com/45399609/51440394-798a9500-1cbe-11e9-91df-7493e465b347.jpg) ![faq1](https://user-images.githubusercontent.com/45399609/51440395-798a9500-1cbe-11e9-8dfb-3073a48b2769.jpg)
 
