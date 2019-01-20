@@ -1,4 +1,6 @@
-## Every Month for 3 hrs // Open video conference // All partners can join us and ask a list of questions. 
+# Open video conference 
+## All partners can join us and ask a list of questions. 
+Every Month, for 3 hrs
 
 We’ll answers relating to a particular subject, especially one giving basic information and update about Vulca.   
 
