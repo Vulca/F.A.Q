@@ -6,10 +6,6 @@ Because we are no **brainers**, we are **doers**.
 We all know we **make** an impact around us. 
 But how to measure it, explain it to use it as leverage with our local or EU representatives.   
 
-## Mobility
-
-## Fablabs
-
 ## Communities
 
 ## [FAQ](faq.md)
