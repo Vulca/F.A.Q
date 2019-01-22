@@ -17,7 +17,7 @@ But how to measure it, explain it to use it as leverage with our local or EU rep
 **We’ll answers relating to a particular subject, especially one giving basic information and update about Vulca.**  
 3h, Once a montth, all partners can join us and ask theirs questions.
 
-![faq3](https://user-images.githubusercontent.com/45399609/5144039hours3-798a9500-1cbe-11e9-9a22-106e094daaf2.jpg)! [faq2](https://user-images.githubusercontent.com/45399609/51440394-798a9500-1cbe-11e9-91df-7493e465b347.jpg)
+! [faq3](https://user-images.githubusercontent.com/45399609/5144039hours3-798a9500-1cbe-11e9-9a22-106e094daaf2.jpg) ! [faq2](https://user-images.githubusercontent.com/45399609/51440394-798a9500-1cbe-11e9-91df-7493e465b347.jpg)
 
 
 {% hint style="info" %}
